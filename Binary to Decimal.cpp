@@ -1,5 +1,3 @@
-//Binary(string) to Decimal(long long)
-
 ll b2d(string s)
 {
     reverse(s.begin(),s.end());
